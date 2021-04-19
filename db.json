@@ -7,6 +7,14 @@
       "promocao": "true",
       "foto": "assets/images/produtos/angular.png",
       "id": 1
+    },
+    {
+      "nome": "AngularNew",
+      "validade": "2021-04-21",
+      "preco": 550,
+      "promocao": "true",
+      "foto": "assets/images/produtos/angular.png",
+      "id": 2
     }
   ]
 }
